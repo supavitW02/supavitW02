@@ -49,8 +49,8 @@
 <br />
 
 <h2 align="center">:bar_chart: Github Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupavitW&theme=tokyonight&line_height=27" alt="Supavit's Github Most Used Languages" /></p>
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SupavitW&theme=tokyonight" alt="Supavit's Github Streaks" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supavitW02W&theme=tokyonight&line_height=27" alt="Supavit's Github Most Used Languages" /></p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=supavitW02&theme=tokyonight" alt="Supavit's Github Streaks" /></p>
   
 
 
