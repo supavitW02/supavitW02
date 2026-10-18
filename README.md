@@ -20,13 +20,13 @@
       Finishing my portfolio website
       
 - 🧠 <b>I'm currently learning about ... </b></br>
-      Data structure and algorithms for interview questions and Nestjs in the spare time.
+      Learning Go and developing a side hustle project.
   
 - 🔎 <b>I’m currently looking for ... </b></br>
       A full time back-end webdevelopment position. I can do fullstack, but backend is what I prefer.
   
 - ⚡ <b>Fun facts:</b> </br>
-      I like Spiderman, Video Games, and Violet color. Currently, I am trying to master vim motions !
+      I like Spiderman, Video Games, and Violet color.
 <br />
 
 <h2 align="center">:wrench: Languages and Tools</h2>
